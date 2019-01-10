@@ -8,7 +8,7 @@
 * [Field]
 
 ## Bugs to Fix
-* [ ] Support more materials per object
-* [ ] add velocity on rotation (deltat)
-* [ ] object groupings
-* [ ] resize window (m)
+* [x] Support more materials per object
+* [x] add velocity on rotation (deltat)
+* [x] object groupings
+* [x] resize window (m)
